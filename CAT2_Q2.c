@@ -1,6 +1,6 @@
 /*
-NAME:STEPHEN GITHINJI
-REG NO:CT101/G/26434/25
+NAME:Gift Muthoni
+REG NO:CT101/G/26539/25
 */
 #include <stdio.h>
 
@@ -32,4 +32,5 @@ int main() {
     
 
     return 0;
+
 }
